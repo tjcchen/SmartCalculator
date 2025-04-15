@@ -61,7 +61,7 @@ struct PrivacyPolicyView: View {
                             .font(.title2)
                             .fontWeight(.bold)
                         
-                        Text("如果您对本隐私政策有任何疑问或建议，请通过以下方式联系我们：\n电子邮件：contact@smartcalculator.cn")
+                        Text("如果您对本隐私政策有任何疑问或建议，请通过以下方式联系我们：\n电子邮件：chenyangpoppin@163.com")
                     }
                 }
                 .padding()
