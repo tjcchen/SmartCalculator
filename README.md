@@ -25,7 +25,7 @@ Smart Calculator is a calculator app developed for the China iOS App Store with 
 
 1. 克隆仓库 (Clone the repository):
    ```bash
-   git clone https://github.com/yourusername/SmartCalculator.git
+   git clone https://github.com/tjcchen/SmartCalculator.git
    ```
 
 2. 使用Xcode 13或更高版本打开项目
