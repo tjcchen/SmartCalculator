@@ -61,6 +61,18 @@ SmartCalculator/
 - 所有数据均存储在本地，遵循中国数据法规
 - 不包含任何敏感内容或服务
 
+## 应用截图 (App Screenshots)
+
+<div align="center">
+
+| 主计算器界面 (Main Calculator) | 历史记录功能 (History) |
+|:-------------------------:|:-------------------------:|
+| <img src="SampleImages/1.png" alt="主计算器界面" width="300"/> | <img src="SampleImages/2.png" alt="历史记录功能" width="300"/> |
+| **设置页面 (Settings)** | **隐私政策 (Privacy Policy)** |
+| <img src="SampleImages/3.png" alt="设置页面" width="300"/> | <img src="SampleImages/4.png" alt="隐私政策" width="300"/> |
+
+</div>
+
 ## 许可证 (License)
 
 © 2025 版权所有
