@@ -84,3 +84,8 @@ SmartCalculator/
 ## 联系方式 (Contact)
 
 如有任何问题，请联系：chenyangpoppin@163.com
+
+## 发布 app 到 App Store 的资源
+
+- 注册苹果开发者账号（费用 RMB688）：https://developer.apple.com
+- 通过苹果开发者注册并下载 Identifiers, Certificates & Profiles（标识符，证书，描述文件）：https://developer.apple.com/account
