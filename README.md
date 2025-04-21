@@ -87,5 +87,5 @@ SmartCalculator/
 
 ## 发布 app 到 App Store 的资源
 
-- 注册苹果开发者账号（费用 RMB688）：https://developer.apple.com
-- 通过苹果开发者注册并下载 Identifiers, Certificates & Profiles（标识符，证书，描述文件）：https://developer.apple.com/account
+- 注册苹果开发者账号（费用 RMB688）：[Developer](https://developer.apple.com)
+- 通过苹果开发者注册并下载 Identifiers, Certificates & Profiles（标识符，证书，描述文件）：[Developer Account](https://developer.apple.com/account)
