@@ -9,6 +9,11 @@ import SwiftUI
 
 @main
 struct SmartCalculatorApp: App {
+    init() {
+        UserDefaults.standard.set(["zh-Hans"], forKey: "AppleLanguages")
+        UserDefaults.standard.synchronize()
+    }
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
