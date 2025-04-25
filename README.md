@@ -1,5 +1,9 @@
 # 智能计算器 (Smart Calculator)
 
+## 苹果商店App名称（App Name）
+
+AppName： Mini Smart Calculator
+
 ## 项目概述 (Project Overview)
 
 智能计算器是一款针对中国iOS App Store开发的计算器应用，具有历史记录功能和双语支持。
