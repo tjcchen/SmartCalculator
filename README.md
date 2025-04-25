@@ -93,3 +93,4 @@ SmartCalculator/
 
 - 注册苹果开发者账号（费用 RMB688）：[Developer](https://developer.apple.com)
 - 通过苹果开发者注册并下载 Identifiers, Certificates & Profiles（标识符，证书，描述文件）：[Developer Account](https://developer.apple.com/account)
+- 通过 App Store Connect 发布应用：[App Store Connect](https://appstoreconnect.apple.com/apps)
