@@ -1,6 +1,6 @@
 # 智能计算器 (Smart Calculator)
 
-## 苹果商店App名称（App Name）
+## 苹果商店应用名称（App Name）
 
 AppName： Mini Smart Calculator
 
